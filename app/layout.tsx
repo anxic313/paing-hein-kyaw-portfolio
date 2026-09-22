@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   title: 'Anxic — Computer Science Student',
   description:
     'Personal portfolio of Anxic, a Computer Science student at Assumption University in Bangkok, Thailand.',
+  verification: {
+    google: 'qZoSsuikXWzbE-ne47mk8o936MIKyrKVUk0r1uD2lHM',
+  },
   generator: 'v0.app',
   icons: {
     icon: [
